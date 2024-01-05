@@ -16,6 +16,17 @@ export function Headertexts(props: any) {
   );
 }
 
+
+
+export function linzService(props:any){
+  return(
+    <div className="serviceBox">
+<h2>{props.h2}</h2>
+<p className="p1">{props.p1}</p>
+<button className="morebtn btn">Know More</button>
+    </div>
+  )
+};
 export function Testimonial(props: any) {
   return (
     <div className="test-div" data-aos="zoom-in">
