@@ -53,8 +53,9 @@ export function Footer() {
             <Footeroption href={"/"} footeroption={"Zoho Consulting"} />
             <Footeroption href={"/"} footeroption={"Zoho Support"} />
             <Footeroption href={"/"} footeroption={"Zoho Training"} />
-            {/* <Footeroption href={"/"} footeroption={"Quickbooks to Zoho Books Migration "} /> */}
+           
             <Footeroption href={"/"} footeroption={"Zoho Mail Migration"} />
+             <Footeroption href={"/"} footeroption={"Quickbooks Migration"} />
           </div>
 
           <div className="text-center col-12 col-sm-4 col-md-3 col-lg-3 ">
@@ -66,20 +67,26 @@ export function Footer() {
            
 <div className="d-flex justify-content-center">
 <div className="icons d-flex justify-content-around col-lg-10 col-md-10 col-sm-10 col-8">
-<a href="" className="inta"><i className="fab fa-facebook fs-2"></i> 
+<a href="https://www.facebook.com/linztechnologies" className="inta"><i className="fab fa-facebook fs-2"></i> 
   </a >
   <a href="" className="inta"><i className="fab fa-instagram fs-2"></i> 
   </a >
-  <a href="" className="twitter"><i className="fab fa-twitter fs-2"></i> 
+  <a href="https://twitter.com/Mary68054153" className="twitter"><i className="fab fa-twitter fs-2"></i> 
   </a >
-  <a href="" className="inkedin"><i className="fab fa-linkedin fs-2"></i> 
+  <a href="https://www.linkedin.com/company/linztechnologies-zohopartner/" className="inkedin"><i className="fab fa-linkedin fs-2"></i> 
   </a>
  
-  
+
   
 </div></div>
 
-            
+<div className="calls mt-3 text-satart">
+  <div className=""><span>IND</span> +91-9159045198</div>
+  <div className=""><span>IND</span> +91-9500014757</div>
+  <div className="mt-3"><span>UAE</span> +971-524969378</div>
+  <div className=""><span>UAE</span> +1-4043482200</div>
+
+</div>
           </div>
         </div>
       </div>
