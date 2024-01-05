@@ -145,16 +145,19 @@ transition: all 0.5s ease-in-out;
   
 }
 .service-box .btn{
-  background-color: var(--primary-color);
+
+  border: solid 1px var(--primary-color) !important;
   width: 6rem;
   font-size: 14px;
   transition: all 0.5s ease-in-out;
+  color: #000000;
  
 }
 .service-box .btn:hover{
   background-color: transparent;
-  border: solid 1px var(--primary-color) !important;
+  background-color: var(--primary-color);
   color:var(--primary-color);
+  color: var(--text-color-white);
 }
 
 .heater-p{
@@ -198,9 +201,79 @@ transition: all 0.5s ease-in-out;
 }
 
 .heading{
-  background-color: rgb(252, 247, 220);
+  background-color: rgb(253, 247, 222);
+}
+.typograpy-page{
+  background-color:rgb(240, 240, 240);
+ 
+}
+.typ-heard-para h5{
+  font-size: clamp(7px,5vw,19px) !important;
+}
+.h5{
+  font-size: clamp(7px,5vw,19px) !important;
+  font-weight: bold !important;
+  line-height: 5vh !important;
+  
+  background-color: var(--primary-color-light) !important;
+
+}
+.typ-pragrah{
+  font-size: clamp(7px,4vw,17px) !important;
+  
+}
+.typ-button .btn{
+  background-color: var(--primary-color);
+  border: var(--primary-color) solid 1px;
+  width: auto;
+  padding: 15px;
+  font-size: 14px;
+  transition: all 0.5s ease-in-out;
+}
+.typ-button .btn:hover{
+  background-color: transparent;
+  border: var(--primary-color) solid 1px;
+
+} 
+
+.clients-chose{
+  background-color: var(--primary-color-light);
 }
 
-.h5{
-  background-color: var(--primary-color-light);
+ /*  .btn{ */
+  /* background-color: var(--primary-color); */
+  /* border: var(--primary-color) solid 1px;
+  width: 10rem;
+  padding: 15px;
+  font-size: 14px;
+  transition: all 0.5s ease-in-out;
+} */
+.service-box-clind{
+  border-radius: 10px;
+  background: var(--text-color-white);
+  width: 270px !important;
+  height: 250px !important;
+  box-shadow: rgb(166, 167, 168) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset !important;
+
+ 
+transition: all 0.5s ease-in-out;
+}
+.service-box-clind:hover{
+  box-shadow:  rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px!important;
+  
+}
+
+.service-box-crm{
+  border-radius: 10px;
+  background: var(--text-color-white);
+  width: 270px !important;
+  height: 250px !important;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset!important;
+
+ 
+transition: all 0.5s ease-in-out;
+}
+.service-box-crm:hover{
+  box-shadow:  rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px!important;
+  
 }

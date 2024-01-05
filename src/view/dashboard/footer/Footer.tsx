@@ -49,11 +49,11 @@ export function Footer() {
 
             />
            
-            <Footeroption href={"/"} footeroption={"Zoho Implementation"} />
+            <Footeroption href={"/"} footeroption={"Zoho Implement"} />
             <Footeroption href={"/"} footeroption={"Zoho Consulting"} />
             <Footeroption href={"/"} footeroption={"Zoho Support"} />
             <Footeroption href={"/"} footeroption={"Zoho Training"} />
-            <Footeroption href={"/"} footeroption={"Quickbooks to Zoho Books Migration "} />
+            {/* <Footeroption href={"/"} footeroption={"Quickbooks to Zoho Books Migration "} /> */}
             <Footeroption href={"/"} footeroption={"Zoho Mail Migration"} />
           </div>
 
