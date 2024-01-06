@@ -157,7 +157,7 @@ d-flex flex-column justify-content-center align-items-center">
   
   <span>ZOHO</span> CRM FREE TRIAL</h4>
   <p>Sign-in ZOHO CRM for FREE Trial</p>
-<button className="btn ">Zhoho Free Trail</button></div>
+<button className="btn ">Zhoho CRM Free Trail</button></div>
 </div>
 
 <div data-aos="fade-up"
@@ -173,7 +173,7 @@ d-flex flex-column justify-content-center align-items-center">
 d-flex flex-column justify-content-center align-items-center">
 <div className="box-text "><h4 className="fw-bold"><span>ZOHO</span>WORKPLACE / MAIL FREE TRIAL</h4>
   <p>Sign-in ZOHO PEOPLE for FREE Trial</p>
-<button className="btn ">Zhoho Free Inventory Trail</button></div>
+<button className="btn ">Zhoho Free People Trail</button></div>
 </div>
 
 
@@ -189,8 +189,8 @@ d-flex flex-column justify-content-center align-items-center">
      data-aos-anchor-placement="center-center" className="freetryal-box  p-3 mt-3 text-center
 d-flex flex-column justify-content-center align-items-center">
 <div className="box-tex "><h4 className="fw-bold"><span>ZOHO</span> CRM FREE TRIAL</h4>
-  <p>Sign-in ZOHO RECRUIT for FREE Trial</p>
-<button className="btn ">Zhoho Free Trail</button></div>
+  <p>Sign-in ZOHO CRM for FREE Trial</p>
+<button className="btn ">Zhoho Free CRM Trail</button></div>
 </div>
 
 <div data-aos="fade-up"
@@ -198,7 +198,7 @@ d-flex flex-column justify-content-center align-items-center">
 d-flex flex-column justify-content-center align-items-center">
 <div className="box-tex "><h4 className="fw-bold"><span>ZOHO</span> DESK FREE TRIAL</h4>
   <p>Sign-in ZOHO DESK for FREE Trial</p>
-<button className="btn ">Zhoho Free Trail</button></div>
+<button className="btn ">Zhoho Free DESK Trail</button></div>
 </div>
 
 <div data-aos="fade-up"
@@ -214,7 +214,7 @@ d-flex flex-column justify-content-center align-items-center">
 d-flex flex-column justify-content-center align-items-center">
 <div className="box-tex "><h4 className="fw-bold"><span>ZOHO</span> BOOKS FREE TRIAL</h4>
   <p>Sign-in ZOHO BOOKS for FREE Trial</p>
-<button className="btn ">Zhoho Free Trail</button></div>
+<button className="btn ">Zhoho Free Books Trail</button></div>
 </div>
 </div>
 </div>
