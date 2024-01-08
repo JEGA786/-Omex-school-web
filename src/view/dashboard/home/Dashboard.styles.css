@@ -180,6 +180,11 @@ transition: all 0.5s ease-in-out;
   gap: 27px;
 }
 
+.free-service-img{
+  width: 90px !important;
+  height: 80px !important;
+  margin-bottom: 10px;
+}
 
 .freetryal-box{
   background-color:transparent !important;
@@ -187,7 +192,7 @@ transition: all 0.5s ease-in-out;
   border-radius: 10px;
   background: var(--primary-color-light);
   width: 270px !important;
-  height: 250px !important;
+  height: 290px !important;
   transition: all 0.7s ease-in-out;
   
 
@@ -201,7 +206,7 @@ transition: all 0.5s ease-in-out;
 }
 .freetryal-box .btn{
   background-color: var(--primary-color);
-  width: auto !important;
+  width:auto!important;
   font-size: 14px;
   transition: all 0.5s ease-in-out;
  
@@ -232,7 +237,8 @@ transition: all 0.5s ease-in-out;
 
 }
 .typ-pragrah{
-  font-size: clamp(7px,4vw,17px) !important;
+  padding: 0px;
+  font-size: clamp(14px,4vw,17px) !important;
   
 }
 .typ-button .btn{
@@ -280,13 +286,36 @@ transition: all 0.5s ease-in-out;
   border-radius: 10px;
   background: var(--text-color-white);
   width: 270px !important;
-  height: 250px !important;
+  height: 270px !important;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset!important;
 
- 
-transition: all 1s ease-in-out;
+transition: all 0.5s ease-in-out;
 }
 .service-box-crm:hover{
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px !important;  transform: translateY(-10px) !important;
+}
+
+.clients-chose-crm{
+  background-color: var(--primary-color-light);
+}
+
+.service-box-crm-featur{
+  border-radius: 10px;
+  background: var(--text-color-white);
+  width: 340px !important;
+  height: 270px !important;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+
+transition: all 1s ease-in-out;
+}
+.service-box-crm-featur:hover{
   box-shadow:  rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px!important;
-  
+  transform: scale(1.02) !important;
+}
+
+
+.crm-implimentetion .img-div .img
+{
+width: 25rem !important;
+/* height: 25rem !important; */
 }

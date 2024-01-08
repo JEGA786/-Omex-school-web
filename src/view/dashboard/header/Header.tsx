@@ -182,7 +182,7 @@ export function Header() {
                     </ul>
 </li>
                 <li className="nav-item dropdown">
-                  <Link className="nav-link" to={"/contactus"}>
+                  <Link className="nav-link" to={"/"}>
                     Carrers
                   </Link>
                 </li>
